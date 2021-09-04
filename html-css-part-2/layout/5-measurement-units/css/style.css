@@ -1,0 +1,11 @@
+body {
+  margin: 0;  
+}
+
+.box {
+  /* 50% of the width of the parent */
+  width: 100vw;
+  height: 10vh;
+  background-color: gold;
+  border-top: 3px solid orange;
+}
